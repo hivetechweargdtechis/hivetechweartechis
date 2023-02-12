@@ -12,7 +12,7 @@ Hive Tech Wear, with a frontend built in React & Redux and a backend built in Dj
 
 Check out [FRONTEND LIVE DEMO](https://Hive-Techware-frontend.hivetechware12.repl.co) here!!
 
-Check out [API LIVE DEMO](https://hivebackend.hivetechware12.repl.co/) here!!
+Check out [API LIVE DEMO](https://hivetechweartechis-back.hivetechweargdt.repl.co) here!!
 
 ## Tech used
 
