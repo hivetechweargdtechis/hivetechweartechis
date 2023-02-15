@@ -1,4 +1,4 @@
-# Hive-Techwear
+# Hive-Techwear-GD
 
 # Hive Tech Wear in React & Redux + Django
 
